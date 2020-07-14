@@ -30,7 +30,6 @@
 				this.test2 = test2;
 			}
 		    
-	}
 		```
 	
 - **@CreatedDate**  
