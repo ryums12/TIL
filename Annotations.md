@@ -47,4 +47,8 @@
 	    
 	}
 	```
+	
+- **@Autowired**  
+
+	의존성 주입, 자세한 것은 [이쪽으로](https://github.com/ryums12/TIL/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(DI).md)
 
