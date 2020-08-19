@@ -51,4 +51,12 @@
 - **@Autowired**  
 
 	의존성 주입, 자세한 것은 [이쪽으로](https://github.com/ryums12/TIL/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(DI).md)
-
+	
+- **@ResponseBody, @RequesyBody**
+	
+	- @ResponseBody
+		응답 본문,
+		컨트롤러 상에서 map 객체를 리턴할 경우, javascript의 json 형태로 변환하여 리턴해줌
+	- @RequestBody
+		요청 본문.
+		javascript 상에서 json 형태의 데이터를 컨트롤러단으로 요청할 경우, json 객체를 map 형태로 변환해줌
