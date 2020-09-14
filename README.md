@@ -10,7 +10,7 @@ Today I Learned
 	- [DataBase Indexing](https://github.com/ryums12/TIL/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
 
 - **Design pattern**
-	[빌더 패턴](https://github.com/ryums12/TIL/blob/master/Design%20pattern/%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
+	- [빌더 패턴](https://github.com/ryums12/TIL/blob/master/Design%20pattern/%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
 	
 - **Etc**
 	- [node js proxy](https://github.com/ryums12/TIL/blob/master/Etc/Node.js%20Proxy%20Setting.md)
