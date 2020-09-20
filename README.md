@@ -32,6 +32,7 @@ Today I Learned
 	- [Service, ServiceImpl](https://github.com/ryums12/TIL/blob/master/Java/Service%2C%20ServiceImpl.md)
 	- [permitive, reference](https://github.com/ryums12/TIL/blob/master/Java/primitive%26reference.md)
 	- [의존성 주입, DI](https://github.com/ryums12/TIL/blob/master/Java/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(DI).md)
+	- [Optional](https://github.com/ryums12/TIL/blob/master/Java/Optional.md)
 
 - **Network**
 	- [동기&비동신, Sync&Async](https://github.com/ryums12/TIL/blob/master/Network/Sync%26Async.md)
@@ -40,3 +41,6 @@ Today I Learned
 	- [payload](https://github.com/ryums12/TIL/blob/master/Network/payload.md)
 	- [폴링, 롱폴링](https://github.com/ryums12/TIL/blob/master/Network/polling.md)
 	- [tcp&udp](https://github.com/ryums12/TIL/blob/master/Network/tcp%26udp.md)
+
+- **React**
+	- [props, state](https://github.com/ryums12/TIL/blob/master/React/props%2Cstate.md)
