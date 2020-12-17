@@ -21,7 +21,7 @@
     - Good case
     	``` get http://api.com/country-asia ```
 
-  - 4. 모든 경로는  소문자로 작성한다.
+  - 모든 경로는  소문자로 작성한다.
   	- Bad case
   		``` get http://api.com/Main ```
   	- Good case
